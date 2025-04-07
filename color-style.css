@@ -1,0 +1,27 @@
+.subheader {
+  color: black;
+  align-items: center;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+/** 
+colors style
+*/
+
+/* Option 1 : color name */
+.option-1 {
+  color: red;
+}
+
+/* Option 2 : hex code (#RRGGBB) range 00 to ff*/
+.option-2 {
+  color: #ff0000;
+  background-color: #0000ff;
+}
+
+/* Option 3 : RGB range of decimal no. 0 to 255 */
+.option-3 {
+  color: rgb(25, 20, 130);
+}

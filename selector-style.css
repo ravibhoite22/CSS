@@ -1,0 +1,52 @@
+/* type-1 : element selector */
+p {
+  color: red;
+  font-size: 3rem;
+}
+
+/* type-2 : id selector */
+#p-green {
+  color: green;
+  font-size: 3rem;
+}
+
+/* type-3 : class selector */
+.p-blue {
+  color: blue;
+  font-size: 3rem;
+}
+
+/* type-4 : element group selector */
+h1,
+h2,
+h3 {
+  color: blue;
+  font-size: 3rem;
+}
+
+/* type-5 : descendant selector */
+/* direct child : > */
+.parent > p {
+  color: aqua;
+}
+/* general child : ~ */
+.sibling ~ p {
+  color: coral;
+}
+/* Adjacent child : + */
+.sibling + p {
+  color: coral;
+}
+
+/* type-6 : pseudo class */
+a:hover {
+  color: green;
+}
+/* type-7 : attribute selector */
+input[type="password"] {
+  color: blue;
+}
+/* type-8 : universal selector */
+* {
+    color: black;
+}
