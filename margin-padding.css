@@ -1,0 +1,43 @@
+/* option 1 */
+.subheader-1 {
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+/* option 2 */
+.subheader-2 {
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: aquamarine;
+}
+
+/* option 3 */
+.subheader-3 {
+    margin: 10px 20px 30px;
+    padding: 10px 20px 30px;
+    background-color: aquamarine;
+}
+
+/* option 4 */
+.subheader-4 {
+    margin: 10px 20px 30px 40px;
+    padding: 10px 20px 30px 40px;
+    background-color: aquamarine;
+}   
+
+/* option 5 */
+.subheader-5 {
+    margin: 10px auto;
+    padding: 10px auto;
+    background-color: aquamarine;
+}
+
+/* option 6 */
+.subheader-6 {
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    background-color: aquamarine;
+}
