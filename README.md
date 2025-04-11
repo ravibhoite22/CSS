@@ -34,3 +34,11 @@ Basic concepts of stylesheet
 - Option 3: top right bottom
 - Option 4: top right bottom left 
 
+# CSS Display
+- Option 1: display:none
+- Option 2: display:block
+- Option 3: display:inline
+- Option 4: display:flex
+- Option 4: visibility:visible
+- Option 5: visibility:Hidden
+
