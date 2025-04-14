@@ -17,9 +17,9 @@ Basic concepts of stylesheet
 - type-3 : class selector
 - type-4 : element group selector
 - type-5 : descendant selector using 
-    > (direct child) , 
-    ~ (general sibling),
-    + (Adjacent sibling)
+    '>' (direct child) , 
+    '~' (general sibling),
+    '+' (Adjacent sibling)
 - type-6 : pseudo class
 - type-7 : attribute selector
 - type-8 : universal selector
@@ -42,3 +42,6 @@ Basic concepts of stylesheet
 - Option 4: visibility:visible
 - Option 5: visibility:Hidden
 
+# CSS float
+- Option 1: right
+- Option 2: left
