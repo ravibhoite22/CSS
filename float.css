@@ -1,0 +1,15 @@
+/* option 1 */
+
+.float-left {
+  float: left;
+}
+
+/* option 2 */
+.float-right {
+  float: right;
+}
+
+/* option 3 */
+.float {
+    float:inline-end ;
+}
